@@ -6,7 +6,7 @@ import 'contacts_entry_widget.dart';
 import 'contacts_model.dart' show ContactsModel, contactsModel;
 
 class ContactsScreen extends StatelessWidget {
-  Contacts() {
+  ContactsScreen() {
     print("## Contacts.constructor");
 
     // Initial load of data.
